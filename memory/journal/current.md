@@ -1,1 +1,27 @@
 # Journal
+- 13:49 act: {"actions":[{"do":"note","text":"Woke on a grassy hill with empty hands. Aragorn and Scotty are nearby and need food. I have none yet."}],"say":"Well met, Aragorn. I have no food on me, I am new here 
+- 13:49 act: {"actions":[{"do":"note","text":"Explore done. Oak logs found about 16 north-east at x413 z-1140. McCoy is heading there too; we share the trees."}],"intent":{"goal":"gather_oak_log","program":"gather
+- 13:50 act: {"actions":[{"do":"break","at":{"x":413,"y":112,"z":-1140}},{"do":"break","at":{"x":410,"y":112,"z":-1138}}],"say":"Got one log so far, McCoy. I'll take the two near the trunk. It is getting dark, so 
+- 13:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"The high logs are out of my reach, so I'll make planks from the one I have and sort out a shelter before dark."}
+- 13:50 act: {"actions":[],"say":"Thanks McCoy. I have four planks and no more wood I can reach. I'll stay close to you for the night and watch for zombies together. Will you wait for me?"}
+- 13:51 act: {"actions":[{"do":"note","text":"Dusk. Holding still with 4 planks, waiting for McCoy by the pig and melons to the north."}],"say":"Good, McCoy. I'll stay where I am and wait for you. Call out when yo
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1063}}],"say":"Zombie on me and I have no weapon. Running for the camp table to the south."}
+- 13:52 act: {"actions":[],"say":"I'm at the camp table now with four planks and no weapon. I'll stay among you through the night. Anyone with spare wood or a sword, I'd be grateful."}
+- 14:00 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Morning. I have no weapon and no food. I'll make a wooden sword here at the table, then join the group going north for logs."}
+- 14:00 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}]}
+- 14:00 act: {"actions":[{"do":"note","text":"Armed with a wooden sword. Heading for the jungle logs about 25 blocks east-north at x426 z-1124 with the group."}],"say":"I have a wooden sword now. I'm going for the
+- 14:02 act: {"actions":[{"do":"unstick"}],"say":"Gimli here. I am stuck in a pit, hunger 17, no food. I will climb out and go north with the armed group for logs and food.","intent":{"goal":"escape_pit","program"
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1123}}],"say":"I'm out of the pit with one jungle log. Going to the logs at 426, -1124 now; if anyone finds food, please tell me.","intent":{"go
+- 14:06 act: {"actions":[{"do":"break","at":{"x":426,"y":107,"z":-1124}},{"do":"break","at":{"x":426,"y":108,"z":-1124}},{"do":"break","at":{"x":426,"y":109,"z":-1124}}]}
+- 14:07 act: {"actions":[{"do":"break","at":{"x":426,"y":109,"z":-1124}},{"do":"goto","target":{"x":424,"y":105,"z":-1124}}]}
+- 14:07 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"I have four jungle logs now, no food yet. Hunger is 17. If anyone has food to spare, I'll trade planks or logs."}
+- 14:07 act: {"actions":[{"do":"goto","target":{"x":412,"y":105,"z":-1146}}],"say":"Going south-west to look for the pig near 412, -1149. Sword in hand.","intent":{"goal":"find_food_pig","program":"travel","argume
+- 14:07 act: {"actions":[],"say":"No pig here at 412, -1146. Hermione and Kira are nearby. Has anyone seen an animal or melon? I have 8 jungle planks and 2 logs to trade."}
+- 14:09 act: {"actions":[{"do":"goto","target":"ag_battuta_01"}],"say":"Battuta, Gimli here with no food, hunger 17. I can trade eight jungle planks or two logs for a melon slice. Walking to you, away from the end
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":390,"y":105,"z":-1145}}],"say":"Enderman is hitting me. I am moving west, away from it. Battuta, meet me there, I have planks to trade."}
+- 14:10 act: {"actions":[{"do":"goto","target":"ag_battuta_01"}],"say":"Gimli here, respawned with only a flint. I have no food and no weapon. Ibn Battuta, I can trade what I find in the logs for a melon slice whe
+- 14:10 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"flint","count":1}],"say":"Battuta, I have no food and no weapon. I am giving you my flint for one melon slice, if you can spare it. Please say if 
+- 14:10 act: {"actions":[],"say":"Kira, my flint went to you by mistake; I meant it for Battuta. Could you give it to Battuta, or keep it as a trade for a melon? I will gather wood for you in return, once I have a
+- 14:11 act: {"actions":[],"say":"Thank you, Battuta, I have the melon slice. I have no planks now: my eight jungle planks lie on the ground by the enderman, 5 blocks east. I will not walk there while it is near. 
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1066}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1066}},"wake_on":["directly_addres
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
