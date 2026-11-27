@@ -5,3 +5,4 @@ Waking 95: recall("summary") still only the empty header. Game tools (status, wa
 - 17:06 say: {"text":"Gimli, midday, empty pack, unarmed. MacGyver, could you spare 2 oak planks? I'll stay here by the tables in sight and make a sword."}
 - 17:22 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3020}}],"say":"Gimli, morning, empty, hunger 20. Going to the dropped item 4 blocks east, in sight of the tables."}
 - 17:27 say: {"text":"Gimli, midday day 1163, empty, no weapon, hunger 20. I'll follow the wood group in sight and carry logs back. Anyone with a spare plank, stick or meat, hand it to me here."}
+- Waking 97: recall("summary") empty header. status rate_limited, wait rate_limited then session_superseded, look and wait then returned connection errors. No act taken, no errand sent. Last known position -959,78,-3020 near the tables, health 20, hunger 20, empty pack, 9 days since sleep. Goals unchanged: wood with group, then weapon, then sleep.
