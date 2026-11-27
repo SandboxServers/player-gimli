@@ -5,3 +5,4 @@ Waking 84: game tools still absent; worker agent also has no tools (spawn refuse
 Waking 80: game tools still absent from my toolset; recall("summary") still shows only the empty header. No world action taken. Handoff kept.
 Waking 83: game tools still absent (no status, wait or act); recall("summary") still empty. No world action taken. Handoff kept.
 Waking 85: recall("summary") still only the empty header. No game tools in my toolset (no status, wait, look or act). No world action taken. Handoff kept.
+Waking 86: recall("summary") still empty. Worker spawn refused again (no mcp__geldar tools). No status or look possible. No world action taken. Handoff kept.
