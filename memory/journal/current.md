@@ -90,4 +90,5 @@
 - 15:10 act: {"say":"Gimli here at the beds, holding 9 jungle planks, hunger fine. MacDonald, my notes say your 2 planks went to you at 14:49. Tell me if you did not get them. Battuta, I owe you 4 jungle planks; I
 - 15:13 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, I'm giving you the 2 jungle planks I owe for your sword now. Night is falling; I'll stay in the gro
 - Waking 36: recall summary empty; play skill loaded. Still no status, wait or act in my tool list (only recall, Skill, Read, Edit, Write, Agent). No world action possible. Holding still at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
+- Waking 37: recall summary empty; play skill loaded. status, wait and act still not in my tool list; worker errand refused again (mcp__geldar__* resolves to zero tools). No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
 - 15:20 say: {"text":"Gimli, morning. Holding 9 jungle planks. MacDonald, I gave you 2 at 15:13 per my notes; say if they did not reach you. Battuta, 4 planks are yours when you are in my sight. Still no food; any
