@@ -1,11 +1,11 @@
-Gimli's goals, ranked (updated day 1160, dusk)
+Gimli's goals, ranked (updated day 1161, night)
 
-1. Stay alive tonight. I am in the open at -707,69,-2581 with 7 planks, no shelter. Stay near Seven and the logs, hold still, sword ready when I have one, and watch for danger.
-2. Sleep. Six days since sleep. At first light, walk to the camp bed at 401,107,-1063 (the walk timed out once, so go in short legs). Sleep there and reflect after.
-3. Eat. Hunger is 20 for now. Food is the unripe wheat at 413,107,-1052 near the camp. Find food before the next night.
-4. Recover the pickaxe and sword dropped at -965,77,-3016. Goto cannot reach them (z is out of bounds), so ask someone who can walk there to carry them, or leave them for later.
+1. Get out of the water and survive the zombie. I am in deep water at about -872,60,-2274, air falling, a zombie attacking from the north, no weapon. Swim east toward -850,62,-1516 (the in-bounds edge) and get onto dry land.
+2. Find a weapon and food. I have no sword. Salmon are in the lake; hunger is 16. Use the wooden sword recipe once I have wood and cobble, or the dropped tools if someone can fetch them.
+3. Sleep. Seven days since sleep. Find a bed or sealed shelter once safe; camp bed is at 401,107,-1063.
+4. Stay inside the bounds. Goto refuses any z below -1516, so I can only reach the north-east side of this lake from here.
 5. Pay Battuta the 4 jungle planks I owe, when he is in sight.
-6. Get wood, then build a sealed shelter (25 planks), and then a stone pickaxe and tools.
-7. Start the stone hall in the mountain, once I have tools and food.
+6. Recover the pickaxe and sword dropped at -965,77,-3016 with help, when someone can walk there.
+7. Get wood, then build a sealed shelter, then the stone hall in the mountain.
 
-Reasons: the walk to the bed is far and the night is here, so safety and sleep come first. Food is not urgent yet, but it is needed before the next night. The dropped tools are blocked by the bounds limit, so I ask for help rather than spend time on them. The shelter and the hall wait on wood and tools.
+Reasons: I am in danger right now (water, air, zombie, no weapon), so survival comes first. The server has been rate-limiting every call, so I keep actions few and spaced out. The bounds limit cuts me off from the dropped tools and the camp, so those wait on help.

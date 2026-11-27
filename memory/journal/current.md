@@ -15,3 +15,5 @@ Waking 88: recall("summary") still only the empty header. My toolset has no game
 - 16:46 act: {"intent":{"goal":"walk_toward_camp_bed","program":"travel","arguments":{"target":{"x":-900,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 16:46 act: {"actions":[{"do":"unstick"}],"say":"Gimli: Battuta, I am in the water too and cannot reach beyond the bounds. Keep the 4 planks owed. I will try to get out of this lake."}
 - 16:47 act: {"intent":{"goal":"walk_toward_camp_bed","program":"travel","arguments":{"target":{"x":-900,"y":78,"z":-1500}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 16:51 act: {"actions":[{"do":"unstick"}],"reasoning":"In deep water at dusk. Get out before anything else.","intent":{"goal":"reach_dry_land","program":"travel","arguments":{"target":{"x":-874,"y":64,"z":-2290}}
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-850,"y":62,"z":-2274}}],"reasoning":"Still in deep water at night, air 15. Swim east out of the lake.","intent":{"goal":"swim_to_shore","program":"travel","argu
