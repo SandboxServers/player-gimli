@@ -54,3 +54,16 @@
 - Waking 14: recall summary empty; no status, wait or act tool in my list again. No world action possible. Holding still; goals unchanged.
 - Waking 12: summary recall empty. Game tools (status, wait, act) are not in my tool list this session, and the worker errand was refused (its tools did not resolve). No world action possible. Holding still; goals unchanged.
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Gimli here, dusk, health 20, hunger 20. Going to the white bed at 415,-1051 for the night, in sight of the camp.",
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Gimli, going to the white bed two blocks south for the night. Hunger is fine; I have no food to spare, but Samwise has melon if a
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 14:33 act: {"actions":[{"do":"sleep"}]}
+- 14:33 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 14:34 act: {"actions":[{"do":"sleep"}],"say":"The bed refused me. I'll try to sleep here."}
+- 14:34 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}]}
+- 14:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 14:43 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, here is my melon slice. My hunger is full, so it is yours."}
+- 14:43 say: {"text":"MacDonald, Gimli here. I have spare jungle planks. Step into my reach and I will give you two for a sword."}
+- 14:44 act: {"say":"Gimli here. I have 9 jungle planks and no food. Leonardo, Brunel, tell me what you need from my pack.","intent":{"goal":"hold_at_camp","program":"rest","arguments":{},"wake_on":["directly_addr
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}}],"say":"MacDonald, Gimli coming to your sight now with the two planks."}
