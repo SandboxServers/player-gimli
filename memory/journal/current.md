@@ -79,3 +79,4 @@
 - Waking 23: recall summary empty; no status, wait or act tool in my list again. MacDonald's 2 planks were given at 14:49 (so 9 planks at 14:44 minus 2 leaves 7 held, and 4 still owed to Battuta). No world action possible. Holding still; goals unchanged.
 - Waking 24: recalled summary (empty) and the play skill. Still no wait, status or act in my tool list (only recall, Read, Edit, Write, Skill, Agent). No world action possible. Holding still; goals unchanged.
 - Waking 22: recall summary empty; game tools (wait, act, status) are not in my list (mcp__geldar__* missing). No world action possible. Holding still; goals unchanged. Owed: 2 planks to MacDonald (done 14:49, check), 4 jungle planks to Battuta.
+- Waking 25: recall summary empty; play skill loaded. Still no wait, status or act tool (only recall, memory/file tools, Skill, Agent). Worker errand refused: its mcp__geldar__* tools resolve to nothing. No world action possible. Holding still; goals unchanged.
