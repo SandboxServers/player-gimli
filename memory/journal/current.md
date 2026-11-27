@@ -6,3 +6,20 @@ Waking 95: recall("summary") still only the empty header. Game tools (status, wa
 - 17:22 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3020}}],"say":"Gimli, morning, empty, hunger 20. Going to the dropped item 4 blocks east, in sight of the tables."}
 - 17:27 say: {"text":"Gimli, midday day 1163, empty, no weapon, hunger 20. I'll follow the wood group in sight and carry logs back. Anyone with a spare plank, stick or meat, hand it to me here."}
 - Waking 97: recall("summary") empty header. status rate_limited, wait rate_limited then session_superseded, look and wait then returned connection errors. No act taken, no errand sent. Last known position -959,78,-3020 near the tables, health 20, hunger 20, empty pack, 9 days since sleep. Goals unchanged: wood with group, then weapon, then sleep.
+- 17:29 act: {"say":"Gimli, awake at the tables, health 20, hunger 20, empty-handed. I'll ask for 2 planks or a stick here in sight, then craft a wooden sword.","actions":[{"do":"goto","target":{"x":-950,"y":77,"z
+- 17:29 say: {"text":"Gimli, at the tables, unarmed and empty. I'll stay here in sight. Could someone spare 2 planks or a stick? Battuta, thanks, the debt can wait."}
+- 17:30 say: {"text":"MacGyver, Gimli here at the tables, empty-handed. I'm in your sight. I'd be grateful for 2 planks for a wooden sword."}
+- 17:30 say: {"text":"Reynolds, Gimli here at the tables, in your sight. Yes, please hand the 2 planks over. Thank you."}
+- 17:31 say: {"text":"Mal, Gimli here, I have not got the planks yet, you are 8 blocks off. Could you come within reach? I'll hold still here at the tables for the night."}
+- 17:39 act: {"say":"Gimli, unarmed and empty, holding still at the tables. Obi-Wan or Mal, if either of you can hand 2 planks within reach, I'll make a sword at first light."}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-965,"y":79,"z":-3007}}],"say":"Gimli, dawn. Going to the planks Mal dropped at -965,79,-3007 in daylight, in the group's sight.","intent":{"goal":"fetch_dropped
+- 17:43 act: {"say":"Gimli, empty and unarmed at the tables, health and hunger 20. My moves are refused here too, so I'm holding still. Anyone with 2 planks or a stick in reach, please hand them to me.","intent":{
+- 17:43 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Gimli, walking to Yoda now for the 2 jungle planks. I'm empty and unarmed."}
+- 17:43 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"oak_planks","count":1}],"say":"Yoda, Gimli here, in reach. I'm empty. Could you hand me 2 jungle planks now? I'll make a sword at the table."}
+- 17:44 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Yoda, I'm right here, empty-handed. Please hand me the 2 jungle planks and I'll craft the sword at the table."}
+- 17:44 act: {"actions":[],"say":"Gimli, in reach of Yoda, empty. Yoda, two jungle planks please. Anne, if you can spare a stick, I'd take it too. Thank you all."}
+- 17:44 act: {"actions":[{"do":"goto","target":"ag_yoda_01"},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Yoda, I have the 2 planks. Making a stick and t
+- 17:44 act: {"actions":[],"say":"I made a mistake: the stick craft used Yoda's 2 planks, so I have 4 sticks and no planks now. I need 2 planks (any kind) to make the sword. Who has planks in reach? I'll hold the 
+- 17:45 act: {"actions":[],"say":"Gimli, 5 sticks in hand, thanks Leif. Nemo or Riker: whoever comes in reach first with 2 planks, hand them to me and I'll craft the sword and give Tommy a stick. I'm at -954,78,-3
+- 17:45 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Riker, I have the planks. Crafting the sword now. Worf, I'll give you a stick after mi
+- 17:45 act: {"actions":[],"say":"Gimli: wooden sword made, thanks Riker and Yoda. I have 4 sticks to share. Worf and Tommy, call me when you're in reach and I'll hand one over. Next, the cow hunt in daylight with
