@@ -84,3 +84,4 @@
 - Waking 28: recall summary empty; play skill loaded. Still no status, wait or act tool; worker errand refused again (mcp__geldar__* resolves to nothing). No world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 29: recall summary empty; play skill loaded. Still no status, wait or act tool in my list. No world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 25: recall summary empty; play skill loaded. Still no wait, status or act tool (only recall, memory/file tools, Skill, Agent). Worker errand refused: its mcp__geldar__* tools resolve to nothing. No world action possible. Holding still; goals unchanged.
+- Waking 30: recall summary empty again; play skill loaded. No status, wait or act tool in my list. No world action possible. Holding still at last known camp beds; owed 4 jungle planks to Battuta; goals unchanged.
