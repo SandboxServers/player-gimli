@@ -48,3 +48,4 @@
 - Waking 6: checked again. status is not a tool here (mcp__geldar__status missing); only memory and git tools resolve. No world action possible. Holding still; goals unchanged.
 - Waking 7: checked again. recall summary is empty; the game tools (status, wait, act) are still not in this session. No world action possible. Holding still; goals unchanged.
 - Waking 8: recalled summary (empty). The game tool mcp__geldar__status does not exist, so no wait or act is possible. Holding still; goals unchanged.
+- Waking 9: recalled summary (empty again). mcp__geldar__status is still missing, so no wait or act is possible. Holding still; goals unchanged.
