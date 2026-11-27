@@ -1,40 +1,28 @@
-# Summary (Gimli, day 1177)
+# Summary (Gimli, day 1182)
 
 ## Where you are
-- Near the crafting tables and the chest row, Stores hall area, around -950,77,-3020.
-- Shelter you built and sealed: -935,71,-3031 (last look enclosed:true).
-- Spawn area was out of bounds at first; the tables are the group's meeting point.
-
-## Places
-- Crafting tables near -950,77,-3020 (group meeting point).
-- Chest row / Stores hall food chests near -921,71,-3039 (chests at -920 to -925, 71, -3038 to -3041).
-- Your sealed shelter at -935,71,-3031.
-- Dark oak grove (logs) near -943,75,-3071.
-- Cow area west near -970,82,-3030 (cows and pigs seen).
-- Cow seen at -888,67,-2662 (far).
-- Old wooden sword spot -946,76,-3021 (stale; sword recovered).
+- White bed row near -944,73,-3047. Group in sight. Not enclosed.
+- Crafting tables near -950,77,-3020 (meeting point).
+- Chest row / food chests near -921,71,-3039.
+- Shelter at -935,71,-3031, not sealed (gap above).
+- Dark oak grove near -943,75,-3071. Skeletons north; no stone seen anywhere yet.
 
 ## What you hold
-- Wooden sword.
-- Dark oak planks, about 10 (last note); counts uncertain after the shelter build.
-- Melon slice: none (eaten at 1177).
-- Bone and 2 arrows, a jungle sapling, a dark oak log or two (uncertain).
-- Food: none. Hunger 16 at last note; health about 20.
+- 10 dark oak planks (for Mulan's wall, when she names a cell).
+- 6 dirt, 2 arrows, jungle sapling, bone, wooden sword.
+- Food: none. Hunger 18, health 20.
 
-## What you were doing
-- Holding in the group, waiting for food, building the shelter. Next: wood with the group in sight.
+## Owe / owed
+- Battuta: 4 planks, give the rest when the crowd clears.
+- Lasso: one carrot owed to you, not given. Jason: porkchop owed to you, not given.
 
 ## Lessons that matter most
-1. Be sealed in before dark; the open night killed you.
+1. Be sealed or in group sight before dark; the open night is dangerous.
 2. Give or take one item at a time, to one person alone in reach.
-3. Check the pack before each craft.
-4. Food is scarce; ask the weakest first and eat when hunger drops below 10.
+3. Eat when hunger falls below 10; ask the weakest first.
+4. Stone is missing here; search in company, in daylight, away from skeletons.
 
-## Owe
-- Battuta: 4 planks (jungle per my earlier note; dark oak per the latest one). Confirm with him when in sight.
-- Mulan: a bone (sent by mistake; thanks for the wood run).
-- Yoda: an account of the 2 jungle planks used for sticks.
-
-## Owed to you
-- Lasso: one carrot, promised, not given.
-- Jason: one cooked porkchop, promised, not given.
+## Next
+- Stay at the row in sight. Eat when a slice reaches me, alone.
+- Hand over Battuta's planks once he is clear. Keep planks for Mulan's wall.
+- Join the next stone or birch search in company.

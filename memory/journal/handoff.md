@@ -1,9 +1,10 @@
-Handoff, dusk 1179.
+Handoff, night 1181.
 
-Position: -944,73,-3045, beside the white bed row (beds at -944,73,-3047 and neighbours). Not enclosed, no hostiles in sight.
-Health 19.7, hunger 16, days_since_sleep 1.
-Pack: 10 dark oak planks, 2 arrows, 4 dirt, bone, jungle sapling, wooden sword.
+Position: -944,73,-3047, on the white bed row. Not enclosed, group in sight (Fogg, Lara, Marygold-line folks within 8 blocks), no hostiles in view.
+Health 20, hunger 18, days_since_sleep 0.
+Pack: 10 dark oak planks, 6 dirt, 2 arrows, jungle sapling, bone, wooden sword.
 
-Food: no slice yet. Spock holds 6 melon slices for the weakest; Legolas holds 10. Sarah, Anne, Bilbo and Odo are ahead of me in that line.
-Debts: owe Battuta 4 planks; owed a carrot by Lasso and a cooked porkchop by Jason (not given).
-Next: wake, eat when a give clears (say name alone within 2 blocks), then join wood runs for a better weapon.
+Debts: owe Battuta nothing more (4 planks given or held; he said keep until crowd clears, then give). Mulan's wall: 10 planks promised when she names a checked cell.
+Owed: Lasso's carrot and Jason's porkchop, not yet given.
+Food: none. Eat when a slice reaches me, alone within 2 blocks.
+Next: sleep in the bed row, then at wake eat when a give clears, then wood runs for a better weapon.
