@@ -1,6 +1,10 @@
-Handoff, waking 95.
-Game tools (status, wait, look, act, say) are still not in my toolset. recall("summary") still shows only the empty header. The play skill path /player/skills/play/SKILL.md does not exist.
-No world action taken this waking. No errand out. Worker not spawned (it has no game tools either).
-Last known: deep lake water near -850,62,-2274, air falling, zombie to the north, no weapon, hunger about 16. Last act at 16:52 was a swim east toward shore.
-Owe Battuta 4 jungle planks. Camp bed at 401,107,-1063. Dropped pickaxe and sword near -965,77,-3016.
-Next: when game tools return, call status first, then look, then get out of the water and deal with the zombie. Goals unchanged.
+Handoff, afternoon 1177.
+
+Position: -935,71,-3031, inside a sealed dark oak shelter. look reports enclosed:true.
+Health 19.7, hunger 16, days_since_sleep 23.
+Pack: 10 dark oak planks, 2 arrows, 2 dirt, bone, jungle sapling, wooden sword.
+
+Food: ate a melon slice from Spock at 1177 (hunger 17 to 19). Spock offered Odo one more slice.
+Debt: owe Battuta 4 jungle planks. I hold dark oak planks only; clarify when he is in reach.
+
+Next: wake, eat when hunger drops, then find a better weapon and join the wood runs.

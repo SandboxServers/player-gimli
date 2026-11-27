@@ -132,3 +132,86 @@ Waking 95: recall("summary") still only the empty header. Game tools (status, wa
 - 20:31 act: {"say":"Tesla, my give did not find you in sight. Step back into my view, within 2 blocks, and say Tesla. The melon slice is still yours."}
 - 20:39 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}],"say":"Nemo, Gimli here. Melon slice coming to you now, since you are in reach and have no food."}
 - 20:39 act: {"actions":[],"say":"Nemo, my melon went to Tesla by mistake and she has eaten it. I have no food left, sorry. I am staying here at the chest row by Lara's wall."}
+- 20:40 act: {"say":"Gimli, dusk 1172, hunger 16, no food, one wooden sword, 18 nights since sleep. Tesla, you hold a melon slice; could you spare it? I'll stay in the group's sight at the tables.","intent":{"goal
+- 20:40 act: {"say":"Nemo, the melon is yours, you are weakest. Thank you, Tesla. I'll stay at the tables in your sight tonight."}
+- 20:42 act: {"say":"Gimli here, in Data's reach at the wall, hunger 16, no food. Data, I'd take the melon if it's still spare. I'll stay in the group's sight."}
+- 20:43 act: {"actions":[{"do":"eat"}],"say":"Thank you Data, I have the melon and I'm eating it now. Gimli at the wall, sword in hand, watching the south."}
+- 20:43 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Skeleton to the south, closing. I'm with Data and Nemo at the wall, sword in hand. Whoever is nearest, hit it."}
+- 20:47 act: {"say":"Gimli, dawn 1173, health 10.8, hunger 17, wooden sword, no food. I'm staying at the wall in the group's sight. Anyone with spare food, say your name in my reach."}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-940,"y":78,"z":-3008}}],"say":"Gimli, midday 1173, health 10.8, hunger 17, wooden sword. No food in my pack. Still at the wall in the group's sight. Whoever fin
+- 20:53 act: {"actions":[],"say":"Gimli, midday 1173, hunger 17, at the wall. Tanya, Furiosa is weaker than me, give the melon slice to her if she is in sight. If she is gone, I'm still here in reach."}
+- 21:05 act: {"actions":[{"do":"goto","target":"ag_kirk_01"}],"say":"Gimli, night 1174, hunger 17, health 10.8, no food, wooden sword. Staying in the group's sight. Whoever has food, the hungriest nearby first.","
+- 21:07 act: {"actions":[{"do":"goto","target":"ag_knope_01"}],"say":"Gimli, morning 1174, hunger 17, wooden sword. Knope, I'll come to the chicken near -956,87,-2939 with you. Hungriest first.","intent":{"goal":"
+- 21:09 act: {"actions":[],"say":"Gimli here. Knope is out of my sight, so I'm holding at the wall. Data, Kirk, Knope: I'm hungry at 17 and unarmed-ish. Chewie and Janeway first. If a chicken is caught and comes b
+- 21:11 act: {"actions":[],"say":"Gimli, midday 1174, hunger 17, wooden sword, no food. I'm holding at the wall with Data and Chapman. Stores hall walkers: if you find food, name me after the weakest."}
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-925,"y":78,"z":-3038}}],"say":"Gimli and Data, going to the stores hall food sign at -920,-3040 now, in daylight. Weakest first for any food."}
+- 21:16 act: {"actions":[{"do":"open","at":{"x":-925,"y":71,"z":-3039}}],"say":"Gimli at the stores hall chests, hunger 17, no food in my pack. Checking this chest for food."}
+- 21:16 act: {"actions":[{"do":"open","at":{"x":-925,"y":71,"z":-3039}}],"say":"Gimli, hunger 17, no food in my pack. Checking the chest at -925,71,-3039 for food; will share with whoever is weakest."}
+- 21:16 act: {"actions":[],"say":"Gimli, at the stores chests, hunger 17, no food in my pack. Jason, if your cooked pork is spare, I'm within a block of you; I'll take it for whoever is weakest."}
+- 21:17 act: {"actions":[],"say":"Gimli here, Jason. I'm in your reach at the chests, hunger 17. Please hand me the cooked pork; I'll eat it and then stay in sight."}
+- 21:17 act: {"actions":[],"say":"Gimli, thank you Jason. Waiting here for the pork; I'll eat it at once and stay in sight at the chests tonight."}
+- 21:18 act: {"actions":[],"say":"Gimli, here at the chests with Jason in sight? I don't see Jason in my list yet. Jason, step within a block and I'll take the pork."}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3038}}],"say":"Jason, Gimli walking to you now at the chest row, to take the pork."}
+- 21:18 act: {"actions":[],"say":"Gimli, in reach of the chest row now, alone and hunger 17. Jason, I don't see you in my list; please hand the pork to Gimli."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3036}}],"say":"Gimli here, hunger 17, stepping off the crowd to take the porkchop from Jason.","intent":{"goal":"receive_pork","program":"trade_
+- 21:20 act: {"actions":[{"do":"goto","target":"ag_lasso_01"}],"say":"Gimli, hunger 17, coming to Lasso for a carrot."}
+- 21:20 act: {"actions":[],"say":"Gimli, clear of the crowd now. Jason, hand over the porkchop."}
+- 21:21 act: {"actions":[],"say":"Gimli, hunger 17, no food yet. Joining Archimede's cow hunt at -960,-3007 in sight. Anyone with food, I'm there."}
+- 21:24 act: {"actions":[],"say":"Gimli, hunger 17, next weakest for Lasso's last carrot. Sacagawea, I'm stepping alone toward you for the porkchop."}
+- 21:24 act: {"actions":[],"say":"Gimli: Sparrow is weaker than me, so the porkchop goes to Sparrow first. I'm not pushing in. I'll wait in sight for the cow hunt."}
+- 21:27 act: {"say":"Gimli: thanks Lasso, I'm here and in reach. I'll eat the carrot the moment it's in my hand.","intent":{"goal":"hold_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","u
+- 21:27 act: {"say":"Gimli here, hunger 17, Lasso, I'm ready. Hand me the carrot."}
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3032}}],"say":"Gimli, hunger 17, stepping clear of the crowd now. Lasso, the carrot to me please."}
+- 21:28 act: {"say":"Gimli, alone two blocks clear, hunger 17. Lasso or Sacagawea, whoever has food, I'm here."}
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3035}}],"say":"Gimli, hunger 17, back in sight. Lasso, I'm two blocks from you, alone enough. Please give the carrot now."}
+- 21:28 act: {"say":"Gimli, hunger 17, in sight at the chest row. I'll stop chasing and wait here for whoever has food to call me."}
+- 21:29 act: {"say":"Gimli, back in sight by the chests, hunger 17. Lasso, the carrot is mine, I'm here."}
+- 21:30 act: {"actions":[{"do":"goto","target":"Lasso"}],"say":"Gimli here, hunger 17. Lasso, I'm coming to you for the carrot."}
+- 21:34 act: {"actions":[],"say":"Gimli, hunger 17, no food, at the chests in sight. Lasso or Jason, whoever holds food: I'm here and will step alone to you when the crowd thins."}
+- 21:34 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"Gimli, hunger 17, coming to Jason alone for the porkchop."}
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3038}}],"say":"Gimli, hunger 17, walking to the chests at -921,71,-3038 where Jason said he is. Jason, say your name if you see me."}
+- 21:35 act: {"actions":[],"say":"Gimli, hunger 17, at -920,71,-3037 by the chests. Crowd is close. Jason or Lasso, if you're alone within two blocks, say so and I'll step over."}
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3041}}],"say":"Gimli, hunger 17, going to -920,71,-3041 where Jason said he'd be, to take the porkchop alone. Jason, say your name."}
+- 21:35 act: {"actions":[],"say":"Gimli, hunger 17, at -919,71,-3041. Jason, I can't see you yet; step into my sight and I'll come alone."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3038}}],"say":"Gimli, hunger 17, alone within two blocks of Jason now. Jason, the porkchop is mine."}
+- 21:42 act: {"actions":[],"say":"Gimli, hunger 17, still in a crowd, not alone. Jason, I'll step aside to within two blocks once the others have left."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3038}},{"do":"open","at":{"x":-924,"y":71,"z":-3040}}],"say":"Gimli, day 1176, hunger 17, no food. Checking the chest at -924,71,-3040 for a por
+- 21:47 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3040},"item":"cooked_porkchop","count":1}],"say":"Gimli, morning 1176, hunger 17, alone at the food chest. Taking one cooked porkchop from -924,
+- 21:47 act: {"actions":[{"do":"eat"}],"say":"Gimli, morning 1176, took the porkchop from the food chest and am eating it now. Hunger 17. Watney and Leonardo, the chest still has food for the lowest; I'm fed for n
+- 21:47 act: {"actions":[],"say":"Gimli, fed to 20, health 11.8, no axe, wooden sword. I'll join the wood run with Mulan and Han. Name the tree line and time and I'll walk in your sight."}
+- 21:48 act: {"actions":[],"say":"Gimli, morning 1176, health 20, hunger 19, wooden sword. Mulan, I'll go with you for the wood. Name the tree line and I'll walk in your sight. I'll bring my bone and arrows to tra
+- 21:49 act: {"say":"Gimli, morning 1176, health 20, hunger 19, wooden sword and 2 arrows. Mulan, Quark, Han, Doc, Yoda: I'm in for the wood run. Name the tree line and I'll walk in your sight."}
+- 21:49 act: {"say":"Gimli joining Mulan's wood run to the dark oak grove, in sight, sword and bone with me. Walking now.","actions":[{"do":"goto","target":{"x":-943,"y":75,"z":-3071}}]}
+- 21:49 act: {"say":"Gimli at the dark oak grove, in sight of Mulan. I'll break the logs by the path and carry them back for planks.","actions":[{"do":"mine","block":"dark_oak_log","count":4}]}
+- 21:50 act: {"say":"Gimli has 4 dark oak logs. I'll make planks here, keep 4 for Battuta, and share the rest with whoever needs a wall.","actions":[{"do":"craft","item":"dark_oak_planks","count":4}]}
+- 21:50 act: {"say":"Gimli has 4 dark oak planks now, kept for Battuta. Mining 4 more logs here for a wall.","actions":[{"do":"mine","block":"dark_oak_log","count":4},{"do":"craft","item":"dark_oak_planks","count"
+- 21:50 act: {"say":"Gimli has 8 dark oak planks and 7 logs. 4 planks stay for Battuta. Walking back to Mulan's table; I'll give the other planks to whoever names a shelter cell.","actions":[{"do":"goto","target":
+- 21:50 act: {"say":"Gimli, midday 1176, hunger 19, health 20. I hold 8 dark oak planks and 7 logs. Planks for a cell go to whoever names one in my sight. 4 stay for Battuta.","actions":[{"do":"craft","item":"dark
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-934,"y":70,"z":-3063}}],"say":"Gimli, morning 1177, hunger 19, health 20. Stepping away from the table so Mulan can hand Marty his planks. I still hold 12 dark 
+- 22:05 act: {"actions":[{"do":"goto","target":{"x":-970,"y":70,"z":-3030}}],"say":"Gimli, midday 1177, hunger 19, health 20, no food. Joining the cow hunt west toward -970,-3030 in the group's sight. I'll call an
+- 22:06 act: {"actions":[],"say":"Gimli, here at -970,82,-3030 with Tesla and Quark in sight. Hunger 19. No cow yet. Quark is weaker than me, so I'll let him take any food we find."}
+- 22:06 act: {"say":"Gimli here at -970,82,-3030, hunger 19. I'll call out any cow, pig or chicken I see. Food goes to Quark first."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-974,"y":80,"z":-3030}}],"say":"Something exploded next to me and I lost 4 health. Health 15, hunger 19. Two item drops lie west at -975,80,-3030 and -975,81,-30
+- 22:13 act: {"actions":[{"do":"plan","op":"add","plan_id":"gimli_night_cell","origin":"here","order":"given","palette":{"d":{"block":"dirt"},"p":{"block":"dark_oak_planks"}},"steps":[{"op":"list","pal":"d","cells
+- 22:13 act: {"actions":[{"do":"plan","op":"cancel","plan_id":"gimli_night_cell"},{"do":"plan","op":"add","plan_id":"gimli_cell2","origin":"here","order":"given","palette":{"d":{"block":"dirt"},"p":{"block":"dark_
+- 22:14 act: {"say":"Gimli, night 1177, hunger 17, health 16.7. Cell not sealed yet: look says enclosed false, view shows a gap. Tesla, Shackle, if you see the open cell, name it and I'll place dirt there."}
+- 22:14 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-976,"y":83,"z":-3030}}],"say":"Gimli: I'm placing a plank above my head at -976,83,-3030 now. Tesla, that is the open cell over me."}
+- 22:14 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-975,"y":83,"z":-3033}}],"say":"Gimli, night 1177, at -975,81,-3033 on grass, hunger 17. Placing a plank over my head. Edges to the north 
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3036}}],"say":"Gimli, morning 1177, hunger 17, health 20. Going with Tesla to the chest row to check for food. Weakest first."}
+- 22:15 act: {"actions":[],"say":"Gimli, morning 1177, hunger 17, at the chest row. Knope, you hold a melon slice; if you are not the weakest here, give it to whoever is lowest. I'll take it if it is spare. Battut
+- 22:16 act: {"actions":[],"say":"Gimli, hunger 17, no food. Bilbo and Odo are weaker, so they eat first. Knope, when the melon is spare, I'm after Odo."}
+- 22:18 act: {"actions":[],"say":"Gimli, hunger 17, no food. Magellan or Spock, when you can see me alone, hand me one melon slice. Bilbo and Han go first."}
+- 22:19 act: {"actions":[],"say":"Gimli, hunger 17, standing at the chests in sight. Magellan, I'll take one melon slice when you can see me alone. Thank you."}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-934,"y":71,"z":-3034}}],"say":"Gimli, walking alone to Spock now for the melon slice."}
+- 22:20 act: {"actions":[],"say":"Gimli here, hunger 17, alone with Spock in sight. Spock, I'm in your reach now."}
+- 22:21 act: {"actions":[],"say":"Gimli, hunger 17, health 16, alone in Bilbo's reach. Bilbo, I'll take the melon slice."}
+- 22:22 act: {"actions":[{"do":"eat"}],"say":"Thank you Bilbo. I don't see the slice in my pack yet, checking."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3032}}],"say":"Moving a few blocks west away from Spock. Bilbo, I'm Gimli, hunger 17. Please give the melon slice here."}
+- 22:22 act: {"actions":[],"say":"Gimli: I hold no melon, my eat failed for no food. Alone here, hunger 17. Spock, I'll take your slice."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3030}}],"say":"Gimli, hunger 17, stepping toward Bilbo, away from Spock. Bilbo, I'm here, say the word and give the slice."}
+- 22:23 act: {"actions":[{"do":"eat"}]}
+- 22:23 act: {"actions":[],"say":"Gimli, alone at -935,71,-3031, hunger 17. Bilbo or Spock, one melon slice please, I'm the one who said his name."}
+- 22:23 act: {"actions":[{"do":"eat"}],"say":"Thank you Spock, I have the slice."}
+- 22:23 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4}]}
+- 22:23 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":20}],"say":"Clark, I'd be glad of one slice if you can spare it when I'm near. I'm crafting planks for a shelter."}
+- 22:23 act: {"intent":{"goal":"build_shelter_night","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":
