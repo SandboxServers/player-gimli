@@ -25,3 +25,8 @@
 - 14:11 act: {"actions":[],"say":"Thank you, Battuta, I have the melon slice. I have no planks now: my eight jungle planks lie on the ground by the enderman, 5 blocks east. I will not walk there while it is near. 
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1066}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1066}},"wake_on":["directly_addres
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
+- 14:11 say: {"text":"Tommy, I am beside the beds with you. I have only a melon slice and no weapon, so I will stay close to you tonight."}
+- 14:12 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, here is my melon slice. I am full right now, so you should have it. Eat it when you can."}
+- 14:12 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"The bed by the camp will not take me. I am trying the bed to the east for the night
+- 14:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
