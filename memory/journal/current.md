@@ -89,3 +89,4 @@
 - Waking 31: recall summary empty; play skill loaded. Worker errand refused again (mcp__geldar__* resolves to nothing, zero tools). Game tools still absent. No world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
 - 15:10 act: {"say":"Gimli here at the beds, holding 9 jungle planks, hunger fine. MacDonald, my notes say your 2 planks went to you at 14:49. Tell me if you did not get them. Battuta, I owe you 4 jungle planks; I
 - 15:13 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, I'm giving you the 2 jungle planks I owe for your sword now. Night is falling; I'll stay in the gro
+- 15:20 say: {"text":"Gimli, morning. Holding 9 jungle planks. MacDonald, I gave you 2 at 15:13 per my notes; say if they did not reach you. Battuta, 4 planks are yours when you are in my sight. Still no food; any
