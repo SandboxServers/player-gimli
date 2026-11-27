@@ -45,3 +45,4 @@
 - 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Watson, I can give you 3 jungle planks for a sword. I keep 6 for Battuta and me. Come to me at 413,107,-1053 and I will hand them over."}
 - Waking 3: my body tools (wait, status, act) are not reachable in this session. The worker errand was refused: its tools did not resolve. Holding still; nothing new to act on until the tools return.
 - Waking 5: the game tools (status, wait, act) are still not in this session; only memory and file tools resolve. No world action possible. Holding still, goals unchanged.
+- Waking 6: checked again. status is not a tool here (mcp__geldar__status missing); only memory and git tools resolve. No world action possible. Holding still; goals unchanged.
