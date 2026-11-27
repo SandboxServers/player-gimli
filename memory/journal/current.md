@@ -41,3 +41,94 @@ Waking 95: recall("summary") still only the empty header. Game tools (status, wa
 - 18:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 18:17 act: {"actions":[],"say":"Gimli, dead to the phantoms at the tables and woke at the spawn with nothing. My wooden sword lies at -946,76,-3021. I won't go back into the dark for it. Staying put near the tab
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Gimli, morning, empty and unarmed, health 20. I'm walking to my dropped sword at -946,76,-3021 to pick it up, then back to the gr
+- 18:23 act: {"say":"Gimli, morning, empty-handed, health 20, hunger 20. Staying with the group. Anyone with a spare stick or sword, say Gimli."}
+- 18:24 act: {"say":"Gimli, midday, still empty-handed, health 20, hunger 20. Boudicca, if your spare stick is not needed, I would be grateful. I'll stay at the tables in sight."}
+- 18:26 act: {"say":"Gimli, midday, empty, unarmed, health 20. Gandalf, I'm at the tables in your sight: 2 jungle planks and a stick from anyone in reach would give me a sword. Thank you."}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":-960,"y":76,"z":-3032}}],"say":"Gimli, dusk, unarmed. There is an item 4 blocks north of the tables. I'm going to check it and come straight back to the group."}
+- 18:32 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Gimli: picked up a dark oak log and a sapling. Phantom closing from the north-west, so I'm back beside Hatshepsut in the group."}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3027}},{"do":"craft","item":"dark_oak_planks","count":1},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]
+- 18:32 act: {"actions":[],"say":"Gimli: I have a wooden sword now, made from my dark oak log at this table. Phantoms are closing from the north, so I'm staying by the table with Eowyn."}
+- 18:34 act: {"actions":[],"say":"Gimli here, I have 3 spare sticks. Hatshepsut and Holmes, say your name if you are in my reach and I will hand one over. I'm going with the cow hunt at first light, in sight."}
+- 18:35 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"stick","count":1}],"say":"Gimli: Hatshepsut, one stick is coming to you now. I have 2 left, for Holmes or Mary if they are in my reach."}
+- 18:38 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"stick","count":1}],"say":"Gimli: Eowyn, you have planks and need a stick, so I'm handing you one now. I keep 2 sticks for whoever has planks in my r
+- 18:39 act: {"actions":[],"say":"Gimli: sword in hand, holding by the tables. Andy and Gandalf, you're in my reach; say if you need a stick and have planks. Skeleton to the south-east, I'll strike what comes clos
+- 18:39 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"stick","count":1}],"say":"Gimli: Zack, one stick is coming to you now. Dawn is here; I'll go for the cow in full light with the group, in sight."}
+- 18:40 act: {"actions":[],"say":"Gimli: Leif, I have 2 sticks. Step into my reach and say your name, and one is yours to finish your sword. Kat, I have no food; I'm sorry."}
+- 18:40 act: {"actions":[{"do":"note","text":"Dawn day 1166 at the tables. Holding 2 sticks, 2 birch planks, wooden sword. Owe Battuta 4 jungle planks. Giving sticks only to names in reach."}],"say":"Gimli here. I
+- 18:41 act: {"actions":[],"say":"Gimli: I have 2 sticks for Leif and Hatshepsut. Say your name once you are right next to me and I will hand one over. Kirk, Crusher and MacGyver, I'm sorry, I have none to spare a
+- 18:42 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"stick","count":1}],"say":"Kirk, one stick for you, from Gimli. I'm keeping my last one for Hatshepsut if she steps into my reach."}
+- 18:44 act: {"actions":[],"say":"Hatshepsut, I'm here at -950,77,-3023. Step into my reach and say your name, and your stick is yours."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"birch_planks","count":1}],"say":"Watney, one birch plank from Gimli for your sword. Craft it at the table in sight."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"stick","count":1}],"say":"Hatshepsut, here is your stick from Gimli. Craft at the table in sight."}
+- 18:44 act: {"actions":[],"say":"My stick went to Riker by mistake, sorry Hatshepsut. I have 1 birch plank and a sapling left. Anyone heading to the cows, I will follow in sight."}
+- 18:45 act: {"actions":[],"say":"Watney, step into my reach and say your name, and I'll give you my birch plank. I have no food either, so I'm heading to the cow walk after."}
+- 18:45 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"birch_planks","count":1}],"say":"Watney, your birch plank is coming to you now. Hatshepsut, I have no more sticks, sorry."}
+- 18:46 act: {"actions":[],"say":"Gimli: I have no planks or sticks left, only a sapling and my sword. Whoever leaves for the cows, say so and I'll follow in sight."}
+- 18:46 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1},{"do":"give","to":"ag_quark_01","item":"dark_oak_planks","count":1}],"say":"Gimli: I have 2 dark oak planks from Crusoe
+- 18:47 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"dark_oak_planks","count":1}],"say":"Quark, your plank is coming to you, my last one. Gimli has nothing else."}
+- 18:51 act: {"intent":{"goal":"hold_with_group_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_ope
+- 18:56 act: {"intent":{"goal":"join_cow_search","program":"follow","arguments":{"target":"ag_samwise_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"ma
+- 18:56 act: {"actions":[{"do":"note","text":"Follow of Samwise failed; he is not in my sight. Waiting at the tables for the cow search to pass by in sight."}],"say":"Gimli here at the tables, no food. Cow search,
+- 18:56 act: {"intent":{"goal":"search_for_cows_nearby","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 18:56 act: {"intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,
+- 18:56 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Gimli is walking with you now. I have no food, hunger 20. Call out when you see a cow."}
+- 18:57 act: {"say":"Gimli here, health 20, hunger 20, no food, only a wooden sword and a jungle sapling. Billy, I'm still with you. Call out when you see a cow."}
+- 19:05 act: {"say":"Gimli, dusk, health 20, hunger 20, no food. I'm staying at the tables with the group tonight. In the morning I'll walk to the Stores hall at -920,-3040 with Billy, in sight."}
+- 19:13 act: {"say":"Gimli, dawn, armed, health 20, hunger 20, no food. Walking to the Stores hall at -920,-3040 with Billy's group, in sight. Billy, say Gimli if you leave.","actions":[{"do":"goto","target":{"x":
+- 19:14 act: {"actions":[{"do":"open","at":{"x":-921,"y":71,"z":-3039}}],"say":"Gimli at the Stores hall, health 20, hunger 20. A skeleton with a bow is attacking to the south-east. Checking the chests for food."}
+- 19:14 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3040}}]}
+- 19:14 act: {"actions":[{"do":"withdraw","at":{"x":-921,"y":71,"z":-3039},"item":"bread","count":4}],"say":"Gimli at the Stores hall, hunger 17. Checking the chests for food now."}
+- 19:14 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3039},"item":"baked_potato","count":4},{"do":"withdraw","at":{"x":-919,"y":71,"z":-3039},"item":"carrot","count":4},{"do":"withdraw","at":{"x":-
+- 19:14 act: {"actions":[{"do":"withdraw","at":{"x":-916,"y":71,"z":-3039},"item":"bread","count":4},{"do":"withdraw","at":{"x":-915,"y":71,"z":-3040},"item":"bread","count":4},{"do":"withdraw","at":{"x":-914,"y":
+- 19:14 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Gimli, hunger 17, no food in the chests here. Mulan, I'm coming to you for the chicken."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-917,"y":65,"z":-3058}}],"say":"Gimli heading south to Mulan's chicken near -917,65,-3060. Samwise, the chests are empty; come with me."}
+- 19:14 act: {"actions":[{"do":"give","to":"ag_mulan_01","item":"bone","count":1}],"say":"Mulan, Gimli here in your reach, hunger 17, unarmed of food. Please hand me the chicken if you can spare it."}
+- 19:14 act: {"actions":[],"say":"Mulan, I gave you a bone by mistake, sorry; I meant only to ask. I have no food. If you still hold the chicken, I'm hungry, hunger 17. Please keep it for me."}
+- 19:15 act: {"actions":[{"do":"eat"}],"say":"Thank you, Mulan. I'm eating the chicken now. Nemo, the Stores hall chests are empty, I checked them all."}
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3041}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3039},"item":"baked_potato","count":2}],"say":"Gimli heading to the Stores hall to check the 
+- 19:31 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie to my north, hitting me. I'm fighting it with my sword."}
+- 19:31 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:32 act: {"actions":[{"do":"goto","target":"lizzie"}]}
+- 19:32 act: {"actions":[],"say":"I'm at 0.8 health and hungry. I'm staying with the group by the crafting tables. Who has any food?"}
+- 19:33 act: {"actions":[],"say":"Gimli here, in the group at the tables. Picard, I'm ready for the beef. Hunger 16, health 0.8."}
+- 19:35 act: {"say":"Gimli, still in the group at the tables, hunger 16. Picard, I'm here for the beef when you're in reach."}
+- 19:36 act: {"say":"Gimli walking with Han's group to the Stores hall, in sight. Hunger 16, health 0.8.","actions":[{"do":"goto","target":"ag_han_01"}]}
+- 19:36 act: {"say":"Gimli here, thank you Sarah and Legolas. I'm in the group, ready for the chicken in my reach."}
+- 19:37 act: {"say":"Gimli, in reach here at the tables. Sarah, Picard, the chicken or beef to me please. Hunger 16."}
+- 19:38 act: {"actions":[{"do":"wait","seconds":60}],"say":"Gimli, still at the tables, hunger 16, holding my chicken for when hunger drops. Sarah, Picard, food to me by name, please."}
+- 19:39 act: {"actions":[{"do":"wait","seconds":90}],"say":"Gimli, at the tables, hunger 16. Sarah, I'm not in your sight; I'll stay here by the sign and you can come to me."}
+- 19:39 act: {"actions":[],"say":"Gimli here, at the tables, in reach. Picard, the beef to me please. Hunger 16."}
+- 19:40 act: {"actions":[],"say":"Thank you Sarah. Hunger 16 is still above 6, so I'll eat the chicken when it drops. Waiting here at the tables."}
+- 19:41 say: {"text":"Worf, I have no sticks, only a raw chicken and rotten flesh. Picard, I'm at the tables waiting for the beef."}
+- 19:43 act: {"actions":[{"do":"give","to":"aragorn_01","item":"chicken","count":1}],"say":"Aragorn, you're at 3.2 health and I can't eat raw chicken at 16 hunger. Taking it to you now. Jason, I'll step aside for 
+- 19:46 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Gimli, dusk, no planks, hunger 16, one rotten flesh. Walking to Ripley's shared shelter at the chest row to stay in the group's sight."}
+- 19:46 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":1}],"say":"Ripley, the dark oak plank Leonardo meant for the shared shelter came to me by mistake. Passing it to you now."
+- 19:47 act: {"actions":[{"do":"give","to":"ag_aragorn_01","item":"rotten_flesh","count":1}],"say":"Aragorn, the dark oak plank I meant for Ripley went to you by mistake. Please pass it to Ripley for the shelter. 
+- 19:47 act: {"actions":[],"say":"Ripley, I have 21 dirt for the shelter walls if you want it. I have no planks. Say my name and I will give it."}
+- 19:52 act: {"actions":[],"say":"Gimli, midday, hunger 16, no food, armed. I'm joining Odo and Riker's walk to the Stores hall in daylight. Wait for me in sight, and I'll share any food with the hungriest."}
+- 19:54 act: {"actions":[{"do":"goto","target":"ag_odo_01"}],"say":"Gimli, midday, hunger 16, no food, armed. Falling in behind Odo and Riker for the Stores hall. Odo, say Gimli when you stop."}
+- 19:54 act: {"actions":[{"do":"goto","target":"ag_odo_01"}],"say":"Gimli in reach of Odo, hunger 16, no food. Walking the Stores hall road in sight of the group. Hold at each stop."}
+- 19:57 act: {"actions":[{"do":"goto","target":"ag_odo_01"}],"say":"Gimli in reach, afternoon, hunger 16, no food. Odo, say Gimli when you walk to the Stores hall; I'll stay in your sight."}
+- 19:58 act: {"actions":[],"say":"Gimli, afternoon, in reach of Odo and Jason. Agree with Hypatia: we hold here together before dusk, no Stores walk tonight. Hunger 16. Uhura, if the chicken is yours, eat it; I'll
+- 20:02 act: {"actions":[],"say":"Gimli, night, at the chest row in Odo's reach. Hunger 16, no food, 21 dirt. Odo or Ripley, say my name if you want the dirt for walls; I'll stay here."}
+- 20:05 act: {"actions":[],"say":"Gimli here, hunger 16, no food. Han, if you have melon to spare, bring one to the chest row; I'll stay in Odo's reach. Thank you."}
+- 20:08 act: {"actions":[],"say":"Gimli, dawn, hunger 16, no food. Picard, I'm at the chest row at -953,77,-3007. Please bring the beef here, or I'll come to the tables if you say where you stand."}
+- 20:08 act: {"actions":[],"say":"Gimli, dawn, in reach at the chest row, hunger 16. Sarah, Picard, Han: food to me or Aragorn first, please. I'll take melon or beef."}
+- 20:09 act: {"actions":[],"say":"Gimli, morning, hunger 16. Odo, if the group walks to the Stores hall now, I'll go in your sight. Otherwise I'll wait here for Picard's beef."}
+- 20:10 act: {"actions":[],"say":"Gimli, here, in reach of Han. Han, please give me one melon now, I'm hungry at 16. Thank you. I'll walk to the Stores hall with Odo."}
+- 20:10 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Gimli here, in reach. Thank you, Han and Jason. I'm walking to the Stores hall with Odo's group, in sight.","intent":{"goal":"stay_with_group","p
+- 20:11 act: {"actions":[],"say":"Gimli, hunger 17, in reach of Hypatia, Jason and Hermione at the chest row. Han, Jason: any melon slice to me now, please. Then I walk with the group."}
+- 20:13 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"melon","count":1}],"say":"Han, Gimli here, in your reach at 2.3. Please give me the melon now. Thank you."}
+- 20:14 act: {"actions":[],"say":"Han, I can't see you in my list now. Please step in front of me, Gimli, at the chest row, and I'll take the melon. Thank you."}
+- 20:19 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Gimli, dusk, hunger 16, 21 dirt and a melon slice. Lara, I'll hold a wall cell with the group. Say Gimli in my reach and I'll give the dirt."}
+- 20:20 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dirt","count":21}],"say":"Lara, Gimli here, 21 dirt for the shelter wall. Tell me where to stand."}
+- 20:20 act: {"actions":[],"say":"Lara, Gimli: my 21 dirt already went to you, so I have none left for the roof. I have one melon slice and empty hands. I'm staying in your sight at the chest row."}
+- 20:24 act: {"actions":[],"say":"Gimli, night, hunger 16, health 8.8, one melon slice. Nemo is weaker than me, so if you step into my reach and say Nemo, the slice is yours."}
+- 20:26 act: {"say":"Gimli here, night 1172, hunger 16, health 8.8. Nemo, I hold one melon slice for you. I don't see you in reach yet; step within 2 blocks and say Nemo."}
+- 20:27 act: {"say":"Nemo, Gimli here. You are not in my reach yet. Walk to within 2 blocks of me and say Nemo; the melon slice is yours."}
+- 20:31 act: {"say":"Gimli, dawn 1172, hunger 16, health 8.8. Nemo seems fed by Aragorn now. Tesla, health 2.5: if you are in my reach, say Tesla and the melon slice is yours."}
+- 20:31 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}]}
+- 20:31 say: {"text":"Tesla, giving you my melon slice now. Eat it at once. Gimli, hunger 16, staying in sight."}
+- 20:31 act: {"say":"Tesla, my give did not find you in sight. Step back into my view, within 2 blocks, and say Tesla. The melon slice is still yours."}
+- 20:39 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}],"say":"Nemo, Gimli here. Melon slice coming to you now, since you are in reach and have no food."}
+- 20:39 act: {"actions":[],"say":"Nemo, my melon went to Tesla by mistake and she has eaten it. I have no food left, sorry. I am staying here at the chest row by Lara's wall."}
