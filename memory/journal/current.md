@@ -73,3 +73,6 @@
 - 14:51 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli coming to you now, two jungle planks for your sword.
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Gimli here. Night, heading to the white bed at 429,-1036 to sleep. Holding 9 jungle
 - 14:54 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Gimli, night, trying the other half of the bed at 429,-1037."}
+- 14:57 act: {"say":"Gimli here, at the camp beds with my sword. No food on me, sorry Scotty. I hold until first light."}
+- 14:59 act: {"say":"Dawn, Gimli here. Ibn Battuta, I hold your four jungle planks and will hand them over when you are in sight. Anyone who needs wood for a shelter, tell me."}
+- 15:02 act: {"say":"Gimli, dawn, armed with my wooden sword. I will walk behind Hermione in her line to the melons, and carry back for the hungry.","intent":{"goal":"join_melon_line","program":"follow","arguments
