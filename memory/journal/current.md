@@ -104,3 +104,4 @@
 - 15:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Gimli at dusk, health 20, hunger 20, no food. Going to the white bed one block north for the night. I still hold 9 jungle planks; Batt
 - 15:34 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli here. Two jungle planks for your sword, handing them over now. Tell me if they miss you again
 - 15:38 act: {"say":"Gimli here, night, far west with the group, phantoms to the south. Armed with my wooden sword, staying in the group and fighting what comes near me."}
+- Waking 53: recall summary empty; play skill loaded. status, wait and act still not in my tool list (mcp__geldar__* resolves to nothing; only recall, memory, Skill, Read, Edit, Write, Agent). No world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
