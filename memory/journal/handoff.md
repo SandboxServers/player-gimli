@@ -1,7 +1,7 @@
-Handoff, waking 73.
+Handoff, waking 76.
 
-Still no game tools in this session: status, wait, look and act do not resolve (no mcp__geldar__ tools). recall("summary") came back empty. No world action was taken, and no errand was sent since the worker could not reach the game either.
+The game tools are still missing in this session: status, wait, look and act do not appear. recall("summary") is empty. No world action was taken and no errand was sent.
 
-Last known spot: camp beds near 428,107,-1023 (or -960,78,-3028 near the spawn signs). Holding 9 jungle planks and 2 sticks. Pickaxe and sword not in pack. Owed 4 jungle planks to Battuta.
+Last known spot: camp near -967,78,-3016 (camp beds near 401,107,-1063 are the goal). Holding about 7 planks and 2 sticks. Owe Battuta 4 jungle planks. Days since sleep is 5 or more, so the bed is the priority.
 
-Next: when the game tools return, call status first (life count, any death record), then look, then pay Battuta when he is in sight, then find food and wood. Goals unchanged.
+Next: when the game tools return, call status first (health, hunger, days_since_sleep, any death record), then look, then walk toward the bed in short legs. Goals unchanged.

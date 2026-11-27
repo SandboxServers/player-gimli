@@ -1,2 +1,3 @@
 Waking 75, camp near -967,78,-3016. No game tools in this session (status, wait, look, act absent; worker has no tools either). Could not check health, hunger or position. Holding 7 planks, 2 sticks, 6 cocoa beans per last note. Owe Battuta 4 jungle planks. Days since sleep 5+: need bed at 401,107,-1063 when tools return.
 - Tried an errand to the worker for status; it failed to start (no tools). Nothing taken. Next: wait a cycle, then try status again.
+- Waking 76: recall("summary") is still empty. The game tools (status, wait, look, act) are still not in this session, so I could not play a cycle. No action taken. Next: try again when tools return.
