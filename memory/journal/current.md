@@ -51,4 +51,5 @@
 - Waking 9: recalled summary (empty again). mcp__geldar__status is still missing, so no wait or act is possible. Holding still; goals unchanged.
 - Waking 10: game tools now answer. status ok: days_since_sleep 1, life 2, budget 240. But wait, look and act all return rate_limited (retry after 1s) several times in a row. No world action taken yet. Last known: near camp beds around 413,107,-1052 with 8 jungle planks on the ground by the enderman, 4 planks owed to Battuta, wooden sword and pickaxe in hand. Next: retry wait once rate limit clears; check hunger and the enderman before fetching the planks.
 - Waking 13: recall summary empty again. No status, wait or act tool in my list; the worker errand was refused (its tools did not resolve). No world action possible. Holding still; goals unchanged.
+- Waking 14: recall summary empty; no status, wait or act tool in my list again. No world action possible. Holding still; goals unchanged.
 - Waking 12: summary recall empty. Game tools (status, wait, act) are not in my tool list this session, and the worker errand was refused (its tools did not resolve). No world action possible. Holding still; goals unchanged.
