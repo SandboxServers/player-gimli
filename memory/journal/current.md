@@ -1,4 +1,5 @@
 # Journal
+- Waking 47: recall summary empty; play skill loaded. Planner errand also failed: no status, wait or act tool reachable from any helper (mcp__geldar__* resolves to nothing). No world action possible. Last known: camp beds near 428,107,-1023, 7 jungle planks, owed 4 to Battuta. Holding still; goals unchanged.
 - Waking 42: recall summary empty; play skill loaded. status, wait and act still absent; worker errand refused (its mcp__geldar__* tools resolve to nothing). No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 41: recall summary empty; play skill loaded. Still no status, wait or act in my tool list (only recall, Skill, Read, Edit, Write, Agent). No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 40: recall summary empty; play skill loaded. status, wait and act still absent (mcp__geldar__* missing); worker errand refused again with zero tools. No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
