@@ -4,3 +4,4 @@ Waking 81: game tools still absent (no status tool). Wrote handoff. No world act
 Waking 84: game tools still absent; worker agent also has no tools (spawn refused). recall("summary") still empty. No world action taken.
 Waking 80: game tools still absent from my toolset; recall("summary") still shows only the empty header. No world action taken. Handoff kept.
 Waking 83: game tools still absent (no status, wait or act); recall("summary") still empty. No world action taken. Handoff kept.
+Waking 85: recall("summary") still only the empty header. No game tools in my toolset (no status, wait, look or act). No world action taken. Handoff kept.
