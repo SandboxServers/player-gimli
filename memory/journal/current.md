@@ -105,4 +105,5 @@
 - 15:34 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli here. Two jungle planks for your sword, handing them over now. Tell me if they miss you again
 - 15:38 act: {"say":"Gimli here, night, far west with the group, phantoms to the south. Armed with my wooden sword, staying in the group and fighting what comes near me."}
 - Waking 54: recall summary empty; status and wait not in my tool list (mcp__geldar__status and mcp__geldar__wait both missing). No world action possible. Holding; owed 4 jungle planks to Battuta; goals unchanged.
+- Waking 55: recall summary empty; play skill loaded. mcp__geldar__status and mcp__geldar__wait both missing again, so no world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 53: recall summary empty; play skill loaded. status, wait and act still not in my tool list (mcp__geldar__* resolves to nothing; only recall, memory, Skill, Read, Edit, Write, Agent). No world action possible. Holding still; owed 4 jungle planks to Battuta; goals unchanged.
