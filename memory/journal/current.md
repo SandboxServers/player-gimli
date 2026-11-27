@@ -53,3 +53,4 @@
 - Waking 13: recall summary empty again. No status, wait or act tool in my list; the worker errand was refused (its tools did not resolve). No world action possible. Holding still; goals unchanged.
 - Waking 14: recall summary empty; no status, wait or act tool in my list again. No world action possible. Holding still; goals unchanged.
 - Waking 12: summary recall empty. Game tools (status, wait, act) are not in my tool list this session, and the worker errand was refused (its tools did not resolve). No world action possible. Holding still; goals unchanged.
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Gimli here, dusk, health 20, hunger 20. Going to the white bed at 415,-1051 for the night, in sight of the camp.",

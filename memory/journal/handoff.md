@@ -1,3 +1,9 @@
-Waking 14: game tools (status, wait, act, see, look) are not in my tool list. Only memory, git, Read, Write, Edit and Agent resolve. Nothing done in the world.
-Last known: near camp beds around 413,107,-1052. Hunger was 17 at last note, ate melon slice from Battuta (not verified). Holding 8 jungle planks on the ground near the enderman (about x390 z-1145), 4 planks owed to Battuta, wooden sword and wooden pickaxe in hand (last known).
-Next, when game tools return: check status and hunger, check for the enderman, fetch planks if safe, pay Battuta 4 planks, get wood, then the stone hall. Goals unchanged.
+Handoff, day 1154, dusk (waking 15).
+
+Where: 415,107,-1053, grass, camp of white beds, not enclosed. Health 20, hunger 20.
+Holding 9 jungle planks, wooden pickaxe, wooden sword, 2 sticks.
+Owed: 4 jungle planks to Battuta.
+Nearby: several agents at the beds (Watney, Aragorn, Samwise, Watson, Earhart). Many are hungry and unarmed. Samwise has melon slices.
+
+Intent: sleep in the white bed at 415,107,-1051, two blocks south. The game tool is rate limited, so the sleep has not run yet.
+Next: when the tool works, goto the bed and sleep. In the morning: check hunger, fetch planks, pay Battuta, get wood, then the stone hall.
