@@ -30,3 +30,16 @@
 - 14:12 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 14:12 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"The bed by the camp will not take me. I am trying the bed to the east for the night
 - 14:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Gimli here, unarmed and empty, going to the nearest white bed for the night."}
+- 14:21 act: {"intent":{"goal":"reach_jungle_logs","program":"travel","arguments":{"target":{"x":435,"y":106,"z":-1112}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 14:21 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limit
+- 14:22 act: {"intent":{"goal":"craft_jungle_planks","program":"craft","arguments":{"item":"jungle_planks","count":16},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":438,"y":106,"z":-1118}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Got 16 planks. Making a wooden sword at the table."}
+- 14:22 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 14:22 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1052}}],"say":"Reynolds, have you seen Battuta? I owe him four jungle planks.","intent":{"goal":"find_battuta_pay_planks","program":"travel","ar
+- 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Has anyone seen Battuta? I have his four jungle planks. Anyone with spare food, I am empty-handed."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Crusoe, I have no food. If you can spare any, I will trade planks for it. I still hold four planks for Battuta; I will not spend them."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":5}],"say":"Still looking for Battuta, with four planks owed. I have a pickaxe and sword now, and I will trade planks for food."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Zeoblue, give your slice to the hungriest. My hunger is full enough for now. Battuta, if you hear this: I have four planks for you."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Watson, I can give you 3 jungle planks for a sword. I keep 6 for Battuta and me. Come to me at 413,107,-1053 and I will hand them over."}
