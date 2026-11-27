@@ -23,3 +23,21 @@ Waking 95: recall("summary") still only the empty header. Game tools (status, wa
 - 17:45 act: {"actions":[],"say":"Gimli, 5 sticks in hand, thanks Leif. Nemo or Riker: whoever comes in reach first with 2 planks, hand them to me and I'll craft the sword and give Tommy a stick. I'm at -954,78,-3
 - 17:45 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Riker, I have the planks. Crafting the sword now. Worf, I'll give you a stick after mi
 - 17:45 act: {"actions":[],"say":"Gimli: wooden sword made, thanks Riker and Yoda. I have 4 sticks to share. Worf and Tommy, call me when you're in reach and I'll hand one over. Next, the cow hunt in daylight with
+- 17:46 act: {"say":"Gimli, here at the tables with 4 sticks. Worf, Clark, Holmes: step within reach and say your name, and I'll hand you one each.","actions":[]}
+- 17:46 act: {"say":"Gimli, at the tables with 4 sticks. Crusher and Holmes, you are not in my reach yet. Step within 2 blocks and I'll hand you one each.","actions":[]}
+- 17:47 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"stick","count":1}],"say":"Holmes, one stick for you, Gimli here. Isambard, I'll hand you one next if you are in reach."}
+- 17:47 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"stick","count":1}],"say":"Holmes, stick coming to you now. Boudicca, step in reach and I'll hand you one too."}
+- 17:47 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":1}],"say":"Boudicca, one stick for you, in reach. Leonardo, I have no food, sorry, only sticks."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"stick","count":1}],"say":"Holmes, one stick for you, you are in reach."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":1}],"say":"Boudicca, one more stick for you, in reach."}
+- 17:48 act: {"say":"Boudicca, my give keeps landing on Holmes, so I'm holding my last stick for you. Step a little to my left and I'll try once more. Holmes, good luck with the sword."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"stick","count":1}],"say":"Crusher, here is my last stick, you are in reach. Boudicca, sorry, I'll get you the next one."}
+- 17:49 act: {"actions":[],"say":"Gimli: my sticks are all given out, Worf, sorry. I'm keeping my wooden sword for now since I have no food to trade. Anyone who finds food, please call my name."}
+- 17:52 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Gimli: Watney, one stick for you, in reach. Night is here; I'm holding at the tables with the group. I have no food."}
+- 17:52 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stick","count":1}],"say":"Gimli: Leonardo, one more stick for you. The cow is at -888,67,-2662 if anyone can reach it tonight."}
+- 17:56 act: {"actions":[],"say":"Gimli, armed with a wooden sword, holding at the tables. I'll strike any phantom that comes into my reach. Leonardo, stay beside me."}
+- 18:08 act: {"actions":[],"say":"Gimli, full, empty but a wooden sword. I'll join the wood party to carry logs in sight. Tesla, say the stop and I'll come to your reach."}
+- 18:13 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Gimli, night, hunger 20, empty of food. I have my wooden sword and I'm staying at the tables with the group to strike phantoms that come close.",
+- 18:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:17 act: {"actions":[],"say":"Gimli, dead to the phantoms at the tables and woke at the spawn with nothing. My wooden sword lies at -946,76,-3021. I won't go back into the dark for it. Staying put near the tab
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Gimli, morning, empty and unarmed, health 20. I'm walking to my dropped sword at -946,76,-3021 to pick it up, then back to the gr
