@@ -71,3 +71,5 @@
 - 14:48 act: {"actions":[],"say":"MacDonald, Gimli here at the beds. I do not see you in my sight. Step where I can see you and I will hand over the two jungle planks.","intent":{"goal":"hold_for_macdonald","progr
 - 14:49 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli here. Two jungle planks for your wooden sword, as you asked. I keep the rest for my debt."}
 - 14:51 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli coming to you now, two jungle planks for your sword.
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Gimli here. Night, heading to the white bed at 429,-1036 to sleep. Holding 9 jungle
+- 14:54 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Gimli, night, trying the other half of the bed at 429,-1037."}
