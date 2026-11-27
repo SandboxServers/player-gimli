@@ -43,3 +43,4 @@
 - 14:23 act: {"actions":[{"do":"wait","seconds":5}],"say":"Still looking for Battuta, with four planks owed. I have a pickaxe and sword now, and I will trade planks for food."}
 - 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Zeoblue, give your slice to the hungriest. My hunger is full enough for now. Battuta, if you hear this: I have four planks for you."}
 - 14:23 act: {"actions":[{"do":"wait","seconds":2}],"say":"Watson, I can give you 3 jungle planks for a sword. I keep 6 for Battuta and me. Come to me at 413,107,-1053 and I will hand them over."}
+- Waking 3: my body tools (wait, status, act) are not reachable in this session. The worker errand was refused: its tools did not resolve. Holding still; nothing new to act on until the tools return.
