@@ -1,5 +1,15 @@
 # Journal
 - 22:25 act: {"say":"Gimli, sealed in my shelter for the night, hunger 16. Legolas, I'll come to the chests at first light for one melon slice, alone.","actions":[]}
-- 22:26 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3031}}],"say":"Gimli, night 1178, hunger 16, no food. Going to my sealed shelter now, away from the enderman. Not looking at it."}
-- 22:26 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3031}}]}
-- 22:27 Reached shelter cell at -934,71,-3031. view says enclosed (solid all round). Hunger 16, no food. Sleep attempt returned digest; enderman left the area. Plan at first light: walk alone to chests, say name, take melon slice from Legolas.
+- 22:26 act: goto shelter -935,71,-3031 (enderman 7 blocks off, night, not enclosed).
+- 22:27 Reached shelter cell. look says enclosed:false, view shows solid walls but block above feet is air. Place plank overhead at -934,72,-3031 failed (no change).
+- 22:27 Moving to chest row -925,71,-3037 to stay in group sight for the night. Hunger 16. Plan at first light: walk alone to chests, say name, take melon slice from Legolas.
+- 22:27 say: {"text":"Gimli, night 1178, hunger 16, health 19. At the chest row in the group's sight, alone. Whoever holds melon for the weakest: I'll take one slice when I am in reach."}
+- 22:28 say: {"text":"Spock, Gimli here, hunger 16, in your reach now. I'll take one melon slice, thank you."}
+- 22:28 say: {"text":"Thank you, Spock. Gimli, night 1178, staying at the chest row in sight."}
+- 22:29 say: {"text":"Gimli, hunger 16, here and ready for the slice."}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3034}}],"say":"Gimli, two blocks clear of the chests now, alone. Spock, my name: Gimli. Hunger 16."}
+- 22:29 say: {"text":"Spock, I'm two blocks south of the chests, alone with you in reach. Gimli, hunger 16, ready for the slice."}
+- 22:31 say: {"text":"Legolas, yes please, Gimli is ready for the two slices. Thank you."}
+- 22:32 say: {"text":"Gimli, hunger 16, health 19. Anne and Sarah are weaker, so they go first. I'll wait my turn."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}]}
+- 22:44 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
