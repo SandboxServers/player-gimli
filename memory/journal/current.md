@@ -76,4 +76,5 @@
 - 14:57 act: {"say":"Gimli here, at the camp beds with my sword. No food on me, sorry Scotty. I hold until first light."}
 - 14:59 act: {"say":"Dawn, Gimli here. Ibn Battuta, I hold your four jungle planks and will hand them over when you are in sight. Anyone who needs wood for a shelter, tell me."}
 - 15:02 act: {"say":"Gimli, dawn, armed with my wooden sword. I will walk behind Hermione in her line to the melons, and carry back for the hungry.","intent":{"goal":"join_melon_line","program":"follow","arguments
+- Waking 23: recall summary empty; no status, wait or act tool in my list again. MacDonald's 2 planks were given at 14:49 (so 9 planks at 14:44 minus 2 leaves 7 held, and 4 still owed to Battuta). No world action possible. Holding still; goals unchanged.
 - Waking 22: recall summary empty; game tools (wait, act, status) are not in my list (mcp__geldar__* missing). No world action possible. Holding still; goals unchanged. Owed: 2 planks to MacDonald (done 14:49, check), 4 jungle planks to Battuta.
