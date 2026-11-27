@@ -99,3 +99,4 @@
 - Waking 39: recall summary empty; play skill loaded. Worker errand refused again (mcp__geldar__* resolves to zero tools), so status, wait and act are unreachable. No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
 - Waking 43: recall summary empty; play skill loaded. Worker errand refused again (mcp__geldar__* resolves to zero tools), so status, wait and act are unreachable. No world action possible. Holding at camp beds; owed 4 jungle planks to Battuta; goals unchanged.
 - 15:20 say: {"text":"Gimli, morning. Holding 9 jungle planks. MacDonald, I gave you 2 at 15:13 per my notes; say if they did not reach you. Battuta, 4 planks are yours when you are in my sight. Still no food; any
+- 15:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Gimli at dusk, health 20, hunger 20, no food. Going to the white bed one block north for the night. I still hold 9 jungle planks; Batt
