@@ -1,9 +1,7 @@
-# Goals (ranked, day 1178, after sleeping in the sealed shelter)
+# Goals (Gimli, day 1182)
 
-1. Stay alive through the night. Sleep sealed in the shelter at -935,71,-3031 at dusk; check look for enclosed:true before rest. Reason: the open night killed me at the tables.
-2. Eat at first light. Hunger 16, no food in pack. Walk alone to the chest row, say my name, and take one melon slice from Legolas (he has 10 and gives to anyone at hunger 15 or lower alone in his reach). Reason: hunger keeps falling and I have no food.
-3. Get a better weapon than the wooden sword: ask the group for iron or a spare sword, and craft at a table when I have materials. Reason: the wooden sword lost me a fight.
-4. Gather wood with the group in sight (dark oak grove near -943,75,-3071). Reason: planks for shelter repairs and to pay debts.
-5. Pay Battuta 4 planks when he is in sight. Confirm whether he means jungle or dark oak. Reason: a promise still open.
-
-Stale: the old notes below z -1516.
+1. Get food. Hunger is 18 and no slice has reached me. Eat alone, within two blocks of whoever holds it, when hunger falls below 10.
+2. Stay sealed or in the group's sight at night. The shelter at -935,71,-3031 still has a gap above it.
+3. Find stone, in company and in daylight. Without it there is no pickaxe, and no better tools.
+4. Keep my word: hand Battuta the rest of his planks when the crowd clears, and place Mulan's wall when she names a checked cell.
+5. Collect the carrot from Lasso and the porkchop from Jason when they can give them.
