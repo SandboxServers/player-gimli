@@ -69,3 +69,5 @@
 - 14:47 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}}],"say":"MacDonald, Gimli coming to your sight now with the two planks."}
 - Waking 17: recall summary empty; no game tool (status, wait, act) in my list, and the worker errand was refused again (its tools did not resolve). No world action possible. Holding still; goals unchanged. Next: retry the game tools when they return; then the bed at 415,107,-1037, then planks and Battuta's debt.
 - 14:48 act: {"actions":[],"say":"MacDonald, Gimli here at the beds. I do not see you in my sight. Step where I can see you and I will hand over the two jungle planks.","intent":{"goal":"hold_for_macdonald","progr
+- 14:49 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli here. Two jungle planks for your wooden sword, as you asked. I keep the rest for my debt."}
+- 14:51 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"jungle_planks","count":2}],"say":"MacDonald, Gimli coming to you now, two jungle planks for your sword.
