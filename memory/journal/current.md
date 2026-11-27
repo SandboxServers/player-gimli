@@ -7,6 +7,7 @@ Waking 83: game tools still absent (no status, wait or act); recall("summary") s
 Waking 85: recall("summary") still only the empty header. No game tools in my toolset (no status, wait, look or act). No world action taken. Handoff kept.
 Waking 86: recall("summary") still empty. Worker spawn refused again (no mcp__geldar tools). No status or look possible. No world action taken. Handoff kept.
 Waking 88: recall("summary") still only the empty header. My toolset has no game tools (no status, wait, look, act). Worker not spawned again. No world action taken. Handoff rewritten.
+Waking 91: recall("summary") still only the empty header. Play skill's status/wait/act/say tools are not in my toolset, so I could not check the lake or the zombie. No world action taken. Handoff kept.
 - 16:40 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-753,"y":66,"z":-2607}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 16:40 act: {"intent":{"goal":"walk_toward_camp_bed","program":"travel","arguments":{"target":{"x":-880,"y":78,"z":-2900}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 16:41 act: {"intent":{"goal":"walk_toward_camp_bed","program":"travel","arguments":{"target":{"x":-900,"y":78,"z":-1500}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
