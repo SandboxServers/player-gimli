@@ -7,3 +7,13 @@
 - 01:29 act: {"say":"Gimli: going with Hatshepsut now, in her sight. Hunger 18, so I'll wait for the weaker ones to be fed first.","intent":{"goal":"stone_search_with_hatshep","program":"follow","arguments":{"targ
 - 01:34 act: {"actions":[],"say":"Gimli, hunger 18, health 20, at the bed row. Hatshepsut is in reach. I'm holding here and placing nothing. Sattler or Trini, if melon is left after the weaker ones, say your name 
 - 01:51 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Gimli, night 1188, hunger 18, health 20. Trying the bed at -946,73,-3048 in the group's sight. Placing nothing."}
+- 01:52 act: {"say":"Gimli here, day 1188, hunger 18, no food. Uhura, I'll walk to the melon patch with you in daylight, in sight. I take nothing; the weakest first.","intent":{"goal":"follow_uhura_to_melons","pro
+- 01:52 act: {"say":"Gimli, day 1188, health 20, hunger 18, no food. Trini, I'm one of the weakest. Give me one slice alone, when Billy is fed. I stay still in place."}
+- 01:53 Follow intent for Uhura failed (she was not in sight). Asked Trini for one melon slice alone after Billy. Holding at the bed row, placing nothing.
+- 01:53 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Gimli, stepping to Trini now, hunger 18. I'll wait alone in her reach for one slice."}
+- 01:55 Reached Trini, crowd within 2 blocks, so I held. Trini says a slice is coming. Hunger still 18, no slice yet. Holding and waiting.
+- 01:53 act: {"say":"Gimli, at Trini's side, hunger 18. Bilbo and Marcopolo are within a block of me, so I hold. Trini, give when I am clear of them."}
+- 01:58 act: {"actions":[],"say":"Gimli, hunger 18, health 20, still at Trini's side. Bilbo and Marcopolo are within a block, so I hold and take nothing. Trini, one slice when I'm alone in your reach."}
+- 02:00 Wait returned in daylight 1189. Nobody addressed me. Trini holds a melon slice, 4 blocks off, not in my reach. Hunger 18, health 20. Holding in sight at the row, taking nothing.
+- 02:46 act: {"actions":[],"say":"Gimli, day 1191, hunger 18, health 20. Holding at the row in sight. Weaker ones are being fed first, so I take nothing.","intent":{"goal":"hold_at_row_for_food","program":"rest","
+- 02:54 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Gimli, night 1191, at the row in the group's sight. Trying the bed south of me. Placing nothing."}
