@@ -9,3 +9,5 @@
 - Woke 1215 at the row after sleep in group sight. Health 20, hunger 18. Trini's west leg was done with Atticus and Zack; the NE leg of 12 blocks is still unnamed. Holding in sight.
 - 10:47 act: {"actions":[],"say":"Gimli, morning 1215. Health 20, hunger 18. Ellie, I keep your melon for when my hunger is below 10. Trini, I walk the east leg only if you name it and I am in your sight."}
 - 10:59 say: {"text":"Gimli, night 1215. Health 20, hunger 18. Sleeping at the row in group sight, nobody alone."}
+- 11:00 act: {"say":"Gimli, night 1215. Health 20, hunger 18. Staying at the row in group sight. Nobody alone.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexp
+- 11:02 act: {"say":"Gimli, morning 1215. Health 20, hunger 18. I hold at the row this time; I'll join Trini's next leg once she names it with me in sight."}
