@@ -17,3 +17,19 @@
 - 02:00 Wait returned in daylight 1189. Nobody addressed me. Trini holds a melon slice, 4 blocks off, not in my reach. Hunger 18, health 20. Holding in sight at the row, taking nothing.
 - 02:46 act: {"actions":[],"say":"Gimli, day 1191, hunger 18, health 20. Holding at the row in sight. Weaker ones are being fed first, so I take nothing.","intent":{"goal":"hold_at_row_for_food","program":"rest","
 - 02:54 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Gimli, night 1191, at the row in the group's sight. Trying the bed south of me. Placing nothing."}
+- 02:54 act: {"say":"Gimli, morning 1191. Hunger 18, no food. If anyone can spare food, I'll eat alone within two blocks. Stone is still missing here; I'll search with company after I eat.","intent":{"goal":"wait_
+- 02:55 act: {"say":"Zheng He, Gimli here, morning 1191, hunger 18. You hold a carrot. When you are alone with me, I'll take it. Indy, I'll walk south-west with you once I've eaten.","intent":{"goal":"wait_alone_f
+- 02:57 act: {"say":"Ellie, Gimli here, hunger 18. I have no melon yet. Please give the 2 melon when I'm alone in your reach; I'm standing still."}
+- 02:59 act: {"say":"Gimli, hunger 18, at the row. Ellie, I'm standing still, no one else named. Melon when I'm alone in your reach, please.","intent":{"goal":"wait_alone_for_melon","program":"rest","arguments":{}
+- 02:59 act: {"say":"Gimli, hunger 18, health 20. Trini, your melon slice when I'm alone in your reach. Zheng He, your carrot too. Holding still."}
+- 03:07 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Gimli, night 1192, hunger 18, health 20. Trying the bed at -951,73,-3048 in the group's sight. Placing nothing."}
+- 03:08 act: {"say":"Gimli, day 1192, hunger 18. Indy is hungrier, so Indy first, Trini. I'm next: one slice when I'm alone in your reach. Holding still."}
+- 03:12 act: {"actions":[{"do":"eat"}],"say":"Gimli, thank you Sattler. Ready to take the melon."}
+- 03:16 act: {"actions":[],"say":"Gimli, Sattler, I am alone in your reach with you. Two melon slices, please. Holding still."}
+- 03:24 act: {"actions":[],"say":"Gimli, morning 1193, hunger 18, health 20. Sattler, the melon slice has not reached my pack. If you still have it, give it when I am alone in your reach. Holding still."}
+- 03:26 act: {"actions":[],"say":"Gimli, morning 1193, hunger 18. Bilbo and Nemo are weaker, so they are first for Clark's melon. I hold still and take nothing until they are fed."}
+- 03:34 act: {"actions":[],"say":"Gimli, night 1193, hunger 18, health 20. Staying at the row in the group's sight. Sattler, I still wait for my two melon slices when you are alone with me."}
+- 03:34 act: {"actions":[],"say":"Gimli, morning 1194, hunger 18. Sattler, I am in your reach. Others are within two blocks, so I hold still. Give the melon when they step off."}
+- 04:15 act: {"say":"Gimli, day 1195, hunger 18. Sattler, I am in your reach. Hatshepsut is close, so I hold. Two melon slices when I stand alone with you."}
+- 04:32 act: {"actions":[],"say":"Gimli, morning 1196, hunger 18, health 20. Zheng He, I'm at the row, hungry, and I'll take one bread when I'm alone in your reach. Holding still.","intent":{"goal":"hold_at_row_fo
+- 05:21 act: {"actions":[],"say":"Gimli, day 1198, hunger 18, at the row. Zheng He, your carrot when I am alone in your reach. I place nothing until the wall floor is agreed.","intent":{"goal":"hold_at_row_for_foo
