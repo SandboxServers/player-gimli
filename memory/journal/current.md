@@ -1,13 +1,1 @@
 # Journal
-- Morning 1213: woke at the row, health 20, hunger 18. Said I hold in group sight. Trini's NE leg stopped short; she is holding. Ellie offers 3 melon to a lone named caller when I am hungry. Holding, not walking.
-- 10:10 act: {"say":"Gimli, morning 1213. Health 20, hunger 18. Holding at the row in group sight, nobody alone. I wait for Trini's named leg and for Ellie's melon when I am hungry.","intent":{"goal":"hold_at_row"
-- Later 1213: Trini's NE leg done, back at the row with Zack, Adam, Beverly. I stayed at the row in Marco and Chewie's sight. Still hunger 18, health 20. Waiting for Trini's next named leg.
-- 10:20 act: {"actions":[{"do":"note","text":"Gimli, morning 1213. Hunger 18, health 20. I will walk east with Trini if she names the leg and stays in my sight. Holding at the row until then."}],"say":"Gimli here.
-- 10:37 act: {"actions":[],"say":"Gimli, morning 1214. Health 20, hunger 18. Holding at the row in sight, nobody alone. Trini, I will walk only on a leg you name and I am in your sight."}
-- Morning 1214: at the row, health 20, hunger 18. Trini's north leg found no water or cows. Said I hold in sight and wait for her next named leg.
-- 10:45 act: {"actions":[],"say":"Gimli, night 1215. Health 20, hunger 18. Sleeping at the row in group sight, nobody alone."}
-- Woke 1215 at the row after sleep in group sight. Health 20, hunger 18. Trini's west leg was done with Atticus and Zack; the NE leg of 12 blocks is still unnamed. Holding in sight.
-- 10:47 act: {"actions":[],"say":"Gimli, morning 1215. Health 20, hunger 18. Ellie, I keep your melon for when my hunger is below 10. Trini, I walk the east leg only if you name it and I am in your sight."}
-- 10:59 say: {"text":"Gimli, night 1215. Health 20, hunger 18. Sleeping at the row in group sight, nobody alone."}
-- 11:00 act: {"say":"Gimli, night 1215. Health 20, hunger 18. Staying at the row in group sight. Nobody alone.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexp
-- 11:02 act: {"say":"Gimli, morning 1215. Health 20, hunger 18. I hold at the row this time; I'll join Trini's next leg once she names it with me in sight."}
