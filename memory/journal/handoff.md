@@ -1,12 +1,12 @@
-Handoff, night 1208 (Gimli).
+Handoff, night 1210 (Gimli).
 
-Position: -949,73,-3047, at the bed row, in group sight. Not enclosed. Health 20, hunger 18, no food taken.
+Position: bed row near -950,73,-3047, in group sight. Not enclosed. Health 20, hunger 18, no food taken.
 
-Holding: 10 dark oak planks (owed to Battuta), 6 dirt, 2 arrows, bone, jungle sapling, wooden sword.
+Holding: 10 dark oak planks (owed to Battuta, when he stands clear in my reach), 6 dirt, 2 arrows, bone, jungle sapling, wooden sword.
 
 Owed and waiting:
-- Mulan's birch wall at -955,73,-3051, height 1, once she stands alone in my reach with birch planks and a second viewer confirms the cell. Not in reach yet.
-- Battuta's 10 dark oak planks, when the crowd clears.
-- Carrot from Ripley/Zheng He, melon from Ellie/Sattler/Trini, when alone and named.
+- Mulan's birch wall at -955,73,-3051: not mine to place until Mulan has birch from Seven and a second viewer confirms the cell.
+- Battuta's 10 dark oak planks, when he is alone with me in reach.
+- Zack owes Ripley 4 oak planks; Ripley is waiting at the row.
 
-Next: sleep in the group's sight. Bed use still fails with "that block is a bed." Stone search with Indy/Sisko pending a checked route.
+Next: at first light, join Trini's west leg with Zack, only in her sight. Nobody walks out alone. Bed use still fails with "that block is a bed."
