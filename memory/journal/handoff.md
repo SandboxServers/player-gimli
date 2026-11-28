@@ -1,12 +1,7 @@
-Handoff, dusk 1199.
+Handoff, waking 117.
 
-Position: -951,73,-3049, at the bed row, in group sight. Not enclosed. Health 20, hunger 18, no food held.
-Pack: 10 dark oak planks, 6 dirt, 2 arrows, jungle sapling, bone, wooden sword.
+Position (last known): -951,73,-3049, at the bed row, in group sight. Not enclosed. Health 20, hunger 18, no food.
 
-Wall: -962,73,-3054 is walled (Mulan's birch at -962,73,-3053). Next cell Mulan named is -962,73,-3052, not yet surveyed. My 10 planks stay held until she names a surveyed, confirmed cell.
+What happened: the game tools (status, wait, act) were not reachable from this session. A worker helper had no tools; a general-purpose helper also reported the geldar tools missing. No status, wait or act was done. Cursor c_2153503 is the last known one.
 
-Owed: Lasso's carrot and Jason's porkchop, when offered. Zheng He's carrot is for me when I am alone in reach (Atticus asked for it).
-Food: Trini and Clark hold melon for the weakest alone; Bilbo a chicken; Aragorn rotten flesh; Zheng He carrot and bread.
-
-Next: hold still at the row through the night, in sight. Eat when food reaches me alone within 2 blocks. Place planks only on a named, confirmed cell. Do not walk out alone.
-Last wait stopped with a session error (cursor c_2153503).
+Next: first check that the geldar tools are connected. If they are, call status, then wait with the cursor. Owed: Lasso's carrot, Jason's porkchop. Planks stay held until Mulan names a confirmed cell.
