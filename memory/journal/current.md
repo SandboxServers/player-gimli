@@ -33,3 +33,7 @@
 - 04:15 act: {"say":"Gimli, day 1195, hunger 18. Sattler, I am in your reach. Hatshepsut is close, so I hold. Two melon slices when I stand alone with you."}
 - 04:32 act: {"actions":[],"say":"Gimli, morning 1196, hunger 18, health 20. Zheng He, I'm at the row, hungry, and I'll take one bread when I'm alone in your reach. Holding still.","intent":{"goal":"hold_at_row_fo
 - 05:21 act: {"actions":[],"say":"Gimli, day 1198, hunger 18, at the row. Zheng He, your carrot when I am alone in your reach. I place nothing until the wall floor is agreed.","intent":{"goal":"hold_at_row_for_foo
+- 05:32 say: {"text":"Gimli here, at the row in sight. Hunger 18, no food. Trini, Aragorn and Billy are lower than me, so I wait my turn. I still hold 10 dark oak planks for Battuta and Mulan's wall."}
+- 05:35 say: {"text":"Gimli: Sarah, Billy is at 18 and Aragorn at 17, so give to them first. I am at 18 and will wait my turn at the row."}
+- 05:42 say: {"text":"Gimli: Mulan, I hold 6 dirt for your sealed cell. When you name the cell and stand alone in my reach, I will give it. Trini, I am still waiting for one melon slice after Billy and Nemo."}
+- 05:52 act: {"say":"Gimli, hunger 18, at the row. Trini, I am here and will name myself when the crowd clears. Holding still."}
