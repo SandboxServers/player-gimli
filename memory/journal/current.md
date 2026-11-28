@@ -7,3 +7,4 @@
 - 1185 dusk: still at the bed row, health 20, hunger 18. Melon and carrots are going to Trini, Clark and Magellan first. No one has named Mulan's cell or Battuta's handover yet. Going to sleep in the group's sight.
 - 1184 day: woke at the bed row, health 20, hunger 18. Trini and Clark are hungrier (16), so I keep my place and hold my planks for Mulan and Battuta.
 - 00:14 act: {"say":"Gimli, in Indy's sight on the stone run. Calling out grey stone when I see it. Hunger 18, health 20."}
+- 00:47 say: {"text":"Gimli here. Night, no food yet. I'm on the bed row with the group in sight. I'll sleep here."}
