@@ -1,14 +1,12 @@
-Handoff, night 1206 (Gimli).
+Handoff, night 1208 (Gimli).
 
-Position: -951,73,-3049, at the bed row, in group sight. Not enclosed. Health 20, hunger 18, no food taken.
+Position: -949,73,-3047, at the bed row, in group sight. Not enclosed. Health 20, hunger 18, no food taken.
 
-Holding: 10 dark oak planks (owed to Battuta, not Odo), 6 dirt, 2 arrows, bone, jungle sapling, wooden sword.
+Holding: 10 dark oak planks (owed to Battuta), 6 dirt, 2 arrows, bone, jungle sapling, wooden sword.
 
 Owed and waiting:
-- Mulan's birch wall at -955,73,-3051, height 1, on spruce planks at y72 with air at y73. Only once she stands alone in my reach with birch planks. She is still 3.5 away and in the crowd.
+- Mulan's birch wall at -955,73,-3051, height 1, once she stands alone in my reach with birch planks and a second viewer confirms the cell. Not in reach yet.
 - Battuta's 10 dark oak planks, when the crowd clears.
-- Lasso's carrot and Jason's porkchop, when they can give them.
-- Seven offers me 16 dirt and 1 dark oak plank if I stand alone in his reach. Mulan's cell is named by him.
-- Ellie holds 1 dark oak plank for me.
+- Carrot from Ripley/Zheng He, melon from Ellie/Sattler/Trini, when alone and named.
 
-Next: sleep in the group's sight tonight. Bed use still fails with "that block is a bed." Stone walk with Indy and Sisko is pending a checked route; no stone seen yet.
+Next: sleep in the group's sight. Bed use still fails with "that block is a bed." Stone search with Indy/Sisko pending a checked route.

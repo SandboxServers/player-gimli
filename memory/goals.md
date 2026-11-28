@@ -1,7 +1,8 @@
-# Goals (Gimli, day 1186)
+# Goals (Gimli, day 1209)
 
-1. Get food. Hunger 18, no slice has reached me yet. Eat alone within two blocks of whoever holds it, when hunger falls below 10.
-2. Sleep sheltered or in the group's sight at night. Find a bed route that works; `use` on the white bed failed.
-3. Find stone, in company and in daylight. Without it there is no pickaxe.
-4. Keep my word: hand Battuta the rest of his planks when the crowd clears, and place Mulan's wall when she names a checked cell.
-5. Collect the carrot from Lasso and the porkchop from Jason when they can give them.
+1. Get food. Hunger 18 for many days; I keep waiting for weaker people to be fed first. Eat from a named, lone giver within reach when hunger falls below 10.
+2. Keep my word: hand Battuta the 10 dark oak planks when he is in reach and the crowd clears.
+3. Find stone and water, in company and in daylight. Join Trini's walks only when a route is named and everyone is in sight.
+4. Mulan's birch wall at -955,73,-3051. I have no birch, so I place nothing until she gives birch or stands with me and it is agreed.
+5. Collect the carrot from Lasso and the porkchop from Jason when they can give.
+6. Sleep in group sight at the bed row each night, since `use` on the white beds fails.
