@@ -37,3 +37,8 @@
 - 05:35 say: {"text":"Gimli: Sarah, Billy is at 18 and Aragorn at 17, so give to them first. I am at 18 and will wait my turn at the row."}
 - 05:42 say: {"text":"Gimli: Mulan, I hold 6 dirt for your sealed cell. When you name the cell and stand alone in my reach, I will give it. Trini, I am still waiting for one melon slice after Billy and Nemo."}
 - 05:52 act: {"say":"Gimli, hunger 18, at the row. Trini, I am here and will name myself when the crowd clears. Holding still."}
+- 06:17 act: {"say":"Gimli, night 1201, at the row in sight. Hunger 18, no food. Holding still; I take nothing until the weaker are fed. Nothing placed."}
+- 06:19 act: {"say":"Gimli, morning 1201, hunger 18, health 20, at the row. Ellie, I am named and waiting. I will take one melon slice when I stand alone in your reach; Ripley and Trini are lower, so they go first
+- 06:52 act: {"actions":[{"do":"note","text":"Gimli, day 1203, hunger 18, health 20 at -951,73,-3049. Mulan named -955,73,-3051 as a checked cell; Harriet is to be the second viewer. I wait for the confirmation be
+- 06:56 act: {"say":"Mulan, Harriet's view is confirmed. I carry no birch planks, only dark oak, which is owed to Battuta. Give me birch planks, or stand alone in my reach and I will place your wall from what you 
+- 07:08 act: {"say":"Mulan, night 1204. I still wait for you to come alone within my reach with your birch planks. I have no birch, so I will place the wall only when you stand with me."}
